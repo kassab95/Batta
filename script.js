@@ -13,7 +13,7 @@ const noMessages = [
     "No",
     "Are you positive? 🤔",
     "Batta please... 🥺",
-    " 🥺 الله يوفقك,الله يوفقك, الله يوفقك",
+    "الله يوفقك,الله يوفقك,الله يوفقك",
     "I will be very sad... 😢",
     "Please??? 💔",
     "Don't do this to me...",
