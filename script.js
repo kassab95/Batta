@@ -109,7 +109,7 @@ function handleNoClick() {
     swapGif(gifStages[gifIndex])
 
     // Runaway at click 5 — but delay it slightly so message shows first
-    if (noClickCount >= 5 && !runawayEnabled) {
+    if (noClickCount >= 7 && !runawayEnabled) {
         setTimeout(() => {        // ← small delay so user reads the message
             enableRunaway()
             runawayEnabled = true
